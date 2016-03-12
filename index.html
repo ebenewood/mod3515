@@ -1,20 +1,25 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="css/bootstrap.css" media="screen" title="no title" charset="utf-8">
-    <link rel="stylesheet" href="css/styles.css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/styles.css">
     <script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
     <script type="text/javascript" src="js/scripts.js"></script>
     <meta charset="utf-8">
     <title></title>
   </head>
   <body>
-    <form id="numForm">
-      <div>
-        <input id="userInput" type="textarea">
-        <input type="submit">
+    <div class="container space">
+      <div class="jumbotron center">
+        <h1> Enter a number</h1>
+        <form id="numForm">
+          <div>
+            <input id="userInput" type="textarea">
+            <input type="submit">
+          </div>
+        </form>
+        <div id="result"></div>
       </div>
-    </form>
-    <span id="result"></span>
+    </div>
   </body>
 </html>
