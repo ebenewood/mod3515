@@ -5,3 +5,7 @@
 .center.jumbotron {
   text-align: center;
 }
+
+li {
+  text-align: left;
+}
