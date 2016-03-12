@@ -1,6 +1,8 @@
 ###Modulo Demonstration for 3 5 & 15
 
-Takes user input, returns number values which are not divisible by 3 5 or 15  12/March/2016
+Takes user input, returns number values which are not divisible by 3 5 or 15  
+
+## Date of version: 12/March/2016
 
 Author: ~~Eben~~
 
@@ -20,9 +22,9 @@ Each time the user inputs an new value, this string is added onto and is display
 
 ###Setup/Installation Requirements
 
-..*Input a value greater than 0.
+*Input a value greater than 0.
 
-..*Click Submit.
+*Click Submit.
 
 ## Known Bugs
 
