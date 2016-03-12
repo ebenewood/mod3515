@@ -4,7 +4,7 @@ Takes user input, returns number values which are not divisible by 3 5 or 15
 
 ####Date of Version:12/March/2016
 
-Author: #~~Eben~~
+Author:  ~~Eben~~
 
 ###Description
 
